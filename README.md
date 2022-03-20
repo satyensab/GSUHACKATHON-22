@@ -1,5 +1,7 @@
 # HACKGSU 2022
 
+*Simple Notes/To-Do App. First time working with apps and using React*
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
