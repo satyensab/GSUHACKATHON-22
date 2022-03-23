@@ -4,6 +4,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Followed Tutorials to Complete the Project.
+
 The following  functionality is complete:
 
 * [x] Add Notes/Delete Note
