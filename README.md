@@ -1,6 +1,6 @@
 # HACKGSU 2022
 
-*Simple Notes/To-Do App. First time working with React and using Javascript,CSS, and HTML*
+*Simple Notes/To-Do App. First time working with React and using Javascript, CSS, and HTML*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
