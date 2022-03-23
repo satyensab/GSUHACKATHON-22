@@ -12,7 +12,7 @@ The following  functionality is complete:
 * [x] Search implementation
 
 ## Video Walkthrough (GIF)
-![](https://recordit.co/R0e1AXfb5H) 
+![](http://g.recordit.co/R0e1AXfb5H.gif) 
 
 ## Available Scripts
 
